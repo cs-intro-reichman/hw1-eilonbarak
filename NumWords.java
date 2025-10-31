@@ -1,4 +1,5 @@
-// Prints a number using "hundreds, tens, ones" notationpublic class NumWords {
+// Prints a number using "hundreds, tens, ones" notationpublic class NumWords 
+public class NumWords {
 	public static void main(String args[]) {
         // Read a non-negative integer (up to three digits) from the command line.
 	    int num = Integer.parseInt(args[0]);
@@ -11,4 +12,5 @@
 		// Print exactly in the required format (with comma and period).
 		System.out.println(hundreds+" hundreds, "+tens+" tens, and "+ ones+" ones.");
 	}
+}
 

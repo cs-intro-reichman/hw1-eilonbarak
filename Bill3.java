@@ -16,6 +16,6 @@ public class Bill3 {
 		
 		 // Print the message in reverse order of names (3 → 2 → 1)
         // and display the amount each person should pay.
-		 System.out.println("Dear "+name3+", "+name2+", and "+name1+": pay "+ Fprice + " shekels each.");
+		 System.out.println("Dear "+name3+", "+name2+", and "+name1+": pay "+ Fprice + " Shekels each.");
 	}
 }
